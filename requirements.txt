@@ -1,0 +1,12 @@
+# Jupyter
+jupyter
+ipykernel
+
+# Numerical computing
+numpy
+
+# Plotting
+matplotlib
+
+# Quantum computing
+qiskit[visualization]
