@@ -1,6 +1,5 @@
 # Jupyter
-jupyter
-ipykernel
+notebook
 
 # Numerical computing
 numpy
@@ -10,3 +9,6 @@ matplotlib
 
 # Quantum computing
 qiskit[visualization]
+
+# Quantum simulators
+qiskit-aer
