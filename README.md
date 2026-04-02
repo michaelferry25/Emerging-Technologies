@@ -1,5 +1,12 @@
 # Emerging Technologies Assessment
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![Qiskit](https://img.shields.io/badge/qiskit-latest-6929C4?logo=ibm&logoColor=white)
+![Qiskit Aer](https://img.shields.io/badge/qiskit--aer-latest-blueviolet?logo=ibm&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-latest-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-latest-11557c)
+![Jupyter](https://img.shields.io/badge/jupyter-latest-F37626?logo=jupyter&logoColor=white)
+
 **Author:** Michael Ferry  
 **Module:** Emerging Technologies  
 **Year:** 2026
